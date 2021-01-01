@@ -1,3 +1,4 @@
 module.exports = {
-    publicPath: '/Calculator_Vue/'
-  }
+    publicPath: '/Calculator_Vue',
+}
+
