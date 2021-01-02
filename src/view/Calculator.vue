@@ -6,7 +6,7 @@
       <Button label="7" @onClick="addDigit"/>
       <Button label="8" @onClick="addDigit"/>
       <Button label="9" @onClick="addDigit"/>
-      <Button label="X" operation @onClick="setOperation"/>
+      <Button label="*" operation @onClick="setOperation"/>
       <Button label="4" @onClick="addDigit"/>
       <Button label="5" @onClick="addDigit"/>
       <Button label="6" @onClick="addDigit"/>
